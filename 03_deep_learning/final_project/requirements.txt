@@ -1,0 +1,10 @@
+spotipy
+pyyaml
+python-Levenshtein
+thefuzz
+sentence-transformers
+pysentimiento
+bs4
+dufte
+vapeplot
+nltk

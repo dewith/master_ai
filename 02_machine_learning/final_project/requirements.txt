@@ -1,0 +1,4 @@
+openpyxl
+category_encoders
+matplotx[all]
+lightfm==1.16
